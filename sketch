@@ -1,0 +1,82 @@
+
+
+
+# menu to recommand based on:
+        # 1. genre
+        # 2. actor
+        # 3. director
+        # 4. story
+        # 5. language
+
+        # while
+
+                    # classes????????
+
+                            # suggestions
+
+''' exceptions: 1. spelling
+                2. lower
+                3. not found
+                4. valid
+
+    add (to dataset) chose from menu
+'''
+
+
+
+'''
+by title? which one?            check for title in DS
+
+we found: 
+        title
+        genre
+        poster
+
+
+
+                type title
+                chose genre
+                show ++ lang
+
+
+                                # of recommendations
+
+                        sorted by last released 
+                                                                    use coloring
+'''
+
+
+
+'''
+['Animation',
+ 'Drama',
+ 'Romantic',
+ 'Comedy',
+ 'Spy',
+ 'Crime',
+ 'Thriller',
+ 'Adventure',
+ 'Documentary',
+ 'Horror',
+ 'Action',
+ 'Western',
+ 'Biography',
+ 'Musical',
+ 'Sci-Fi',
+ 'War',
+ 'Grotesque',
+ 'Gangster',
+ 'Fantasy',
+ 'Mélo',
+ 'Mythology',
+ 'History',
+ 'Erotico',
+ 'Noir',
+ 'Super-hero',
+ 'Biblical',
+ 'Sport',
+ 'Sperimental',
+ nan,
+ 'Short Movie',
+ 'Stand-up Comedy']
+'''
