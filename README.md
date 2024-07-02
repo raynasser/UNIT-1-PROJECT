@@ -51,7 +51,7 @@ Explain to the user how to use your project:
 
 ## Dataset:
 ### Source:
-The dataset used in this project is sourced from [FilmTV.it](https://www.filmtv.it) and was scraped as of October 21, 2023. It is available on [Kaggle] (https://www.kaggle.com/datasets/stefanoleone992/filmtv-movies-dataset/data).
+The dataset used in this project is sourced from [FilmTV.it](https://www.filmtv.it) and was scraped as of October 21, 2023. It is available on [Kaggle](https://www.kaggle.com/datasets/stefanoleone992/filmtv-movies-dataset/data).
 
 ### Content:
 Each row in the dataset represents a movie available on FilmTV.it, with the following attributes:
