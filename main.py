@@ -27,6 +27,9 @@ def main():
             if movie_title.lower() == 'exit':
                 print(Back.CYAN + "Thanks 🙏" + Style.RESET_ALL)
                 break
+            if not movie_title:
+                print(Fore.RED + "Please enter a valid movie title." + Style.RESET_ALL)
+                continue
 
 
 
@@ -123,7 +126,7 @@ def main():
             user_choice = input(Back.LIGHTWHITE_EX + "\n Do you want to search for another movie? (yes to continue, no to quit): " + Style.RESET_ALL + "\t")
             print()
 
-            if user_choice.lower() != 'yes':
+            if user_choice.lower() == 'no':
                 print(Back.CYAN + "Thanks 🙏" + Style.RESET_ALL)
                 break
 
